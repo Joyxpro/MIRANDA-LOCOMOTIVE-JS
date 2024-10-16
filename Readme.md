@@ -31,7 +31,7 @@ This is a clone of the **Miranda** website built as a single-page website. It sh
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/miranda-website-clone.git
+   git clone https://github.com/Joyxpro/MIRANDA-LOCOMOTIVE-JS.git
    ```
 
 
